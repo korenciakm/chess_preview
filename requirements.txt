@@ -1,0 +1,5 @@
+urllib3
+chess
+resvg_py
+fastapi
+uvicorn
